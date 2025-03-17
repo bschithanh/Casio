@@ -11,6 +11,6 @@ https://raw.githubusercontent.com/bschithanh/nguon/main/ClassWiz%20Emulator%20Su
 
 https://raw.githubusercontent.com/bschithanh/nguon/main/Crack%20ClassWiz%20Emulator%20Subscription%20for%20fx-580VN%20X%20Ver.2.00.rar
 
-Buoc 1: Cai chuong trinh **"ClassWiz Emulator Subscription for fx-580VN X Ver.2.00.exe**"
+Buoc 1: Cai chuong trinh **ClassWiz Emulator Subscription for fx-580VN X Ver.2.00.exe**
 Buoc 2: Copy het cac file trong thu muc **crack** vao thu muc cai dat chuong trinh 
 
