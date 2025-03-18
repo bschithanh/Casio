@@ -19,11 +19,19 @@
   - ![image](https://github.com/user-attachments/assets/e9c07ced-ee65-4b73-a2b7-c5ead11491fa)
   - Bạn có thể tùy chỉnh thư mục cài đặt.
   - ![image](https://github.com/user-attachments/assets/7b9f7d48-7aa6-426b-8207-0bef9bc14bb1)
-  - 
+- Bước 2: Copy hết các file trong thư mục **crack** vao thu muc cài đặt chương trình, thông thường là thư mục:
+  - ![image](https://github.com/user-attachments/assets/1e4262e2-fad7-4013-b056-1450d5b4a167)
+  - Copy vào thư mục cài đặt:
+    ```Php
+    C:\Program Files (x86)\CASIO\ClassWiz Emulator Subscription\fx-580VN X Emulator
+    ```
+  - ![image](https://github.com/user-attachments/assets/872ebc6b-b795-430a-926d-a8a9afcbe251)
+  - Chọn thay thế file hiện tại.
+  - ![image](https://github.com/user-attachments/assets/a3e0af00-5631-4e71-bdd6-2e06254ea643)
+  - ![image](https://github.com/user-attachments/assets/5666c53c-0299-49b2-984b-4ece5639cd48)
+  - Chọn không Update.
+  - Xong!
 
 
 
-
-
-- Bước 2: Copy hết các file trong thư mục **crack** vao thu muc cài đặt chương trình, thông thường là thư mục: 
 
