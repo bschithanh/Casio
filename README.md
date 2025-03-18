@@ -11,5 +11,19 @@
 - Download file cài đặt [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/ClassWiz%20Emulator%20Subscription%20for%20fx-580VN%20X%20Ver.2.00.rar)
 - Download file Crack [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/Crack%20ClassWiz%20Emulator%20Subscription%20for%20fx-580VN%20X%20Ver.2.00.rar)
 - Bước 1: Cài đặt chương trình bằng cách Run file **ClassWiz Emulator Subscription for fx-580VN X Ver.2.00.exe**
+  - ![image](https://github.com/user-attachments/assets/9332c3e9-4e9c-4eea-8e8c-bbbee0a96896)
+  - Chọn ngôn ngữ.
+  - ![image](https://github.com/user-attachments/assets/703f8081-3df7-4f90-a4fe-0059f59176c5)
+  - Bấm **Next**
+  - ![image](https://github.com/user-attachments/assets/8ab1ff17-06f1-4a69-beb9-71bb7481081d)
+  - ![image](https://github.com/user-attachments/assets/e9c07ced-ee65-4b73-a2b7-c5ead11491fa)
+  - Bạn có thể tùy chỉnh thư mục cài đặt.
+  - ![image](https://github.com/user-attachments/assets/7b9f7d48-7aa6-426b-8207-0bef9bc14bb1)
+  - 
+
+
+
+
+
 - Bước 2: Copy hết các file trong thư mục **crack** vao thu muc cài đặt chương trình, thông thường là thư mục: 
 
