@@ -1,5 +1,9 @@
 # Giả lập Casio
 
+QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạn cà phê ạ!
+
+![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
+
 ## Casio fx-570VN PLUS Portal
 - Download Casio fx-570VN PLUS Portal [tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/Casio%20fx-570VN%20PLUS%20Portal.zip)
 - Giải nén, Run file **vcredist_x86.exe** trong thư mục **Support**
